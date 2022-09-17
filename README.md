@@ -9,7 +9,7 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 - [CyclicRotation](https://github.com/DWvanderMeer/codility/blob/main/L2_CyclicRotation.py)
 - [OddOccurrencesInArray](https://github.com/DWvanderMeer/codility/blob/main/L2_OddOccurrencesInArray_unfinished.py)
 
-##Lesson 3 - Time Complexity**
+**Lesson 3 - Time Complexity**
 - [FrogJmp](https://github.com/DWvanderMeer/codility/blob/main/L3_FrogJmp.py)
 - [PermMissingElem](https://github.com/DWvanderMeer/codility/blob/main/L3_PermMissingElem.py)
 - [TapeEquilibrium](https://github.com/DWvanderMeer/codility/blob/main/L3_TapeEquilibrium.py)
