@@ -1,6 +1,6 @@
 # Codility training
 
-These are my solutions to the exercises provided freely by [Codility](https://codility.com/programmers/lessons/). Each script contains tests to evaluate correctness and performance, taken from [johnmee/codility](https://github.com/johnmee/codility).
+These are my solutions to the exercises provided freely by [Codility](https://codility.com/programmers/lessons/). Each script has been tested for correctness and performance using the scripts from [johnmee/codility](https://github.com/johnmee/codility).
 
 **Lesson 1 - Iterations**
 - [BinaryGap](https://github.com/DWvanderMeer/codility/blob/main/L1_BinaryGap.py)
@@ -13,3 +13,6 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 - [FrogJmp](https://github.com/DWvanderMeer/codility/blob/main/L3_FrogJmp.py)
 - [PermMissingElem](https://github.com/DWvanderMeer/codility/blob/main/L3_PermMissingElem.py)
 - [TapeEquilibrium](https://github.com/DWvanderMeer/codility/blob/main/L3_TapeEquilibrium.py)
+
+**Lesson 4 - Counting Elements**
+- [FrogRiverOne](https://github.com/DWvanderMeer/codility/blob/main/L4_FrogRiverOne.py)
