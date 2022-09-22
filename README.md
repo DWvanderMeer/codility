@@ -17,3 +17,4 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 **Lesson 4 - Counting Elements**
 - [FrogRiverOne](https://github.com/DWvanderMeer/codility/blob/main/L4_FrogRiverOne.py)
 - [PermCheck](https://github.com/DWvanderMeer/codility/blob/main/L4_PermCheck.py)
+- [MaxCounters](https://github.com/DWvanderMeer/codility/blob/main/L4_MaxCounters.py)
