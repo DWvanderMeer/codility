@@ -10,5 +10,5 @@ def solution(N, A):
 
 ####################################################################################
 # Test copied from https://github.com/johnmee/codility/blob/master/L4_MaxCounters.py
-# Test passed although it could probably be enhanced in terms of performance
+# Test passed.
 ####################################################################################
