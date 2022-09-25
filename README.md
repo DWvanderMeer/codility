@@ -18,3 +18,4 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 - [FrogRiverOne](https://github.com/DWvanderMeer/codility/blob/main/L4_FrogRiverOne.py)
 - [PermCheck](https://github.com/DWvanderMeer/codility/blob/main/L4_PermCheck.py)
 - [MaxCounters](https://github.com/DWvanderMeer/codility/blob/main/L4_MaxCounters.py)
+- [MissingInteger](https://github.com/DWvanderMeer/codility/blob/main/L4_MissingInteger.py)
