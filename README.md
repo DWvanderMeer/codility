@@ -19,3 +19,6 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 - [PermCheck](https://github.com/DWvanderMeer/codility/blob/main/L4_PermCheck.py)
 - [MaxCounters](https://github.com/DWvanderMeer/codility/blob/main/L4_MaxCounters.py)
 - [MissingInteger](https://github.com/DWvanderMeer/codility/blob/main/L4_MissingInteger.py)
+
+**Lesson 5 - Prefix Sums**
+- [PassingCars](https://github.com/DWvanderMeer/codility/blob/main/L5_PassingCars.py)
