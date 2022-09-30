@@ -22,3 +22,4 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 
 **Lesson 5 - Prefix Sums**
 - [PassingCars](https://github.com/DWvanderMeer/codility/blob/main/L5_PassingCars.py)
+- [CountDiv](https://github.com/DWvanderMeer/codility/blob/main/L5_CountDiv.py)
