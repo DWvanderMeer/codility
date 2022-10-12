@@ -24,3 +24,6 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 - [PassingCars](https://github.com/DWvanderMeer/codility/blob/main/L5_PassingCars.py)
 - [CountDiv](https://github.com/DWvanderMeer/codility/blob/main/L5_CountDiv.py)
 - [GenomicRangeQuery](https://github.com/DWvanderMeer/codility/blob/main/L5_GenomicRangeQuery.py)
+
+**Lesson 6 - Sorting**
+- [Distinct](https://github.com/DWvanderMeer/codility/blob/main/L6_Distinct.py)
