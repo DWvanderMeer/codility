@@ -28,3 +28,4 @@ These are my solutions to the exercises provided freely by [Codility](https://co
 **Lesson 6 - Sorting**
 - [Distinct](https://github.com/DWvanderMeer/codility/blob/main/L6_Distinct.py)
 - [MaxProductOfThree](https://github.com/DWvanderMeer/codility/blob/main/L6_MaxProductOfThree.py)
+- [Triangle](https://github.com/DWvanderMeer/codility/blob/main/L6_Triangle.py)
